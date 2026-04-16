@@ -22,9 +22,9 @@ public abstract class Mensaje{
         this.valoraciones = new ArrayList<>();
     }
 
-    public int calcularValoracion(){
+    /*public int calcularValoracion(){
 
-    }
+    }*/
 
     public int getIdMensaje() {
         return idMensaje;
